@@ -135,6 +135,8 @@
   * [An Overview of JavaScript testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
   * [JavaScript: Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
   * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
+  * [Bring Laravel Collections to JavaScript with Collect.js](https://laravel-news.com/javascript-collections)
+  *[Javascript 30](https://javascript30.com/)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
@@ -242,6 +244,9 @@
   * [devdojo.com](https://devdojo.com/)
   * [laracademy.co](https://laracademy.co/)
   * [eloquentbyexample.com](http://eloquentbyexample.com)
+  * [customlaravel.com](https://customlaravel.com/)
+  * [multitenantlaravel.com](https://multitenantlaravel.com/)
+  * [Justlaravel](http://justlaravel.com/)
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
   * [Sending Template Emails through Mandrill in Laravel](http://culttt.com/2015/10/12/sending-template-emails-through-mandrill-in-laravel/)
@@ -375,6 +380,7 @@
   * [Rebuild Twitter with Laravel — User and Authentication - Part 1](https://medium.com/@just4sky/rebuild-twitter-with-laravel-user-and-authentication-9b0adb392dc6)
   * [Rebuild Twitter with Laravel-Followers - Part 2](https://medium.com/@just4sky/rebuild-twitter-with-laravel-followers-fdecaae22499)
   * [Rebuild Twitter with Laravel — Timeline - Part 3](https://medium.com/@just4sky/rebuild-twitter-with-laravel-timeline-2a2b63ca8e1b)
+  * [Learn how to Improve the performance of your Laravel app with Performant Laravel](https://laravel-news.com/performant-laravel)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
