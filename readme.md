@@ -40,8 +40,10 @@
   * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
   * [Give it a REST: use GraphQL for your APIs](https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336)
   * [How to GraphQL: The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+  * [REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)
 
 ## PHP
+  * [Cloudways PHP Tutorials](https://www.cloudways.com/blog/php/)
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org)
   * [phpenthusiast.com](http://phpenthusiast.com)
@@ -136,7 +138,7 @@
   * [JavaScript: Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
   * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
   * [Bring Laravel Collections to JavaScript with Collect.js](https://laravel-news.com/javascript-collections)
-  *[Javascript 30](https://javascript30.com/)
+  * [JavaScript 30](https://javascript30.com/)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
@@ -178,8 +180,9 @@
   * [Making Your Anuglar App fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
   * [Building Real World, Production Quality Apps With Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps)
   * [Planning an Angular application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
-  * [Rangle's Angular 2 Training Book]https://www.gitbook.com/book/rangle-io/ngcourse2/details()
-
+  * [Rangle's Angular 2 Training Book](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
+  * [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
+  
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
   * [learnredux.com](http://learnredux.com/)
@@ -230,6 +233,7 @@
   * [datatables.net](http://datatables.net/)
 
 ## Laravel
+  * [Cloudways Laravel Tutorials](https://www.cloudways.com/blog/laravel/)
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
   * [laraveldaily.com](http://laraveldaily.com)
   * [learninglaravel.net](http://learninglaravel.net)
