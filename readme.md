@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [RxJS](#rxjs)
+- [Vue](#vue)
 - [Laravel](#laravel)
 - [Ionic](#ionic)
 - [Firebase](#firebase)
@@ -139,6 +140,12 @@
   * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
   * [Bring Laravel Collections to JavaScript with Collect.js](https://laravel-news.com/javascript-collections)
   * [JavaScript 30](https://javascript30.com/)
+  * [Rebuilding Slack’s Emoji Picker in React](https://slack.engineering/rebuilding-slacks-emoji-picker-in-react-bfbd8ce6fbfe)
+  * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+  * [How we improved webpack build performance by 95%](https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/)
+  * [ES6 and Beyond Workshop Part 1 at PayPal (Jan 2017)](https://www.youtube.com/watch?v=t3R3R7UyN2Y&t=4844s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=16)
+  * [ES6 and Beyond Workshop Part 2 at PayPal (March2017)](https://www.youtube.com/watch?v=eOKQDh50ECU&t=16s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=13)
+  * [Motion Graphics about programming](http://reactive.how/)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
@@ -147,6 +154,17 @@
 
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
+
+
+### Vue
+  * [egghead.io](https://egghead.io/browse/frameworks/vue)
+  * [Introduction to Vue](https://frontendmasters.com/courses/vue/)
+  * [Getting Started With TDD and Vue.js](https://vuejsdevelopers.com/2017/12/25/vue-js-test-driven-development-tdd/)
+  * [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/)
+  * [Authenticating a Vue JS Application With Firebase UI](https://medium.com/dailyjs/authenticating-a-vue-js-application-with-firebase-ui-8870a3a5cff8)
+  * [Simple Modal Notifications in Vue.js with Vue-SweetAlert2](https://alligator.io/vuejs/vue-sweetalert2/)
+  * [Offline First Masonry Grid Showcase with Vue](https://vuejsdevelopers.com/2017/10/09/vue-js-masonary-grid/?ref=madewithvuejs.com)
+  * [Testing Vue](https://madewithvuejs.com/go/testingvue-com)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
@@ -217,6 +235,7 @@
   * [Navigating React's setState()](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
   * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
+  * [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
   
  ### React Native
   * [reactnative.training](http://reactnative.training/)
@@ -439,6 +458,7 @@
   * [Learn to code, 13 tips that could save you years of effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.j5wmlp7gp)
   * [Getting to 10x Results. What any developer can learn from the best!](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef#.1b1w14tq3)
   * [How to become a better developer by coding less](https://www.sitepoint.com/how-to-become-a-better-developer-by-coding-less/)
+  * [How to think like a Programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
@@ -534,6 +554,7 @@
 
 ## Interview Preparation for Developers
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Progressive Web Apps
 * [Progressive Web apps with React - Part 1](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.92byl0ok8)
