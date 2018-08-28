@@ -13,6 +13,7 @@
 - [RxJS](#rxjs)
 - [Vue](#vue)
 - [Laravel](#laravel)
+- [Machine Learning](#machine-learning)
 - [Ionic](#ionic)
 - [Firebase](#firebase)
 - [Successful Developer Strategies](#successful-developer-strategies)
@@ -413,6 +414,9 @@
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
   * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
   * [How make Laravel and ElasticSearch become friends](https://medium.com/@babenko.i.a/how-to-make-laravel-and-elasticsearch-become-friends-55ed7690331c)
+  
+## Machine Learning
+  * [Machine Learning - Google Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 
 ## Ionic
@@ -459,6 +463,7 @@
   * [Getting to 10x Results. What any developer can learn from the best!](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef#.1b1w14tq3)
   * [How to become a better developer by coding less](https://www.sitepoint.com/how-to-become-a-better-developer-by-coding-less/)
   * [How to think like a Programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd)
+  * [How to write a great resume for software engineers](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
