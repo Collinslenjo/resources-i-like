@@ -147,6 +147,8 @@
   * [ES6 and Beyond Workshop Part 1 at PayPal (Jan 2017)](https://www.youtube.com/watch?v=t3R3R7UyN2Y&t=4844s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=16)
   * [ES6 and Beyond Workshop Part 2 at PayPal (March2017)](https://www.youtube.com/watch?v=eOKQDh50ECU&t=16s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=13)
   * [Motion Graphics about programming](http://reactive.how/)
+  * [Learn about promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
+  * [6 reasons why JavaScript's async await blows promises away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
@@ -612,7 +614,8 @@
  * [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
  
 ## Remote Work
- * []()
+ * [Landing Jobs](https://landing.jobs)
+ * [Remote OK](https://remoteok.io)
 
 ## How can I thank you?
 
